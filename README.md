@@ -13,8 +13,7 @@ Byron Thornton
 This is a picture gallery that actively responds based on clicks.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://bct16.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
 1. Document Object Model represents the web page displayed in a browser.
